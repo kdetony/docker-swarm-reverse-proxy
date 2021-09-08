@@ -2,7 +2,7 @@
 Proceso de ejecucion
 ----
 
-*Creacion de la Red Overlay e imagenes*
+*Creacion de la Red Overlay , imagenes y ejecucion del stack*
 
 
 ```bash
