@@ -6,7 +6,7 @@ Proceso de ejecucion
 
 
 ```bash
-$ docker network create --attachable --driver overlay swarm-network
+$ docker network create --attachable --driver overlay swm-net
 $ docker-compose build
 $ docker stack deploy -c docker-compose.yml nginx-reverse-proxy
 ```
