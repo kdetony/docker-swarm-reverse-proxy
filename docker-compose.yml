@@ -27,5 +27,5 @@ services:
       - swm-net
 
 networks:
-  swarm-network:
+  swm-net:
     external: true
